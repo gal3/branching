@@ -1,4 +1,0 @@
-master change
-feature 2
-master change 2
-feature 4
